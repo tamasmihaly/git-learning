@@ -3,3 +3,6 @@ Annak pedig a m�sodik sora.
 Harmadik sor.
 
 valami
+
+Na most jól beleírok egy fontos mondatot (by Péti)
+Egyébként a konzol még mindig powershell
