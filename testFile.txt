@@ -1,5 +1,5 @@
-Els� file a repoba.
-Annak pedig a m�sodik sora.
+Első file a repoba.
+Annak pedig a második sora.
 Harmadik sor.
 
 valami
