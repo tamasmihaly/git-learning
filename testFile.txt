@@ -6,3 +6,7 @@ valami
 
 Na most jól beleírok egy fontos mondatot (by Péti)
 Egyébként a konzol még mindig powershell
+
+by: TOMI
+bezártam a terminált és ha újranyitottam, akkor felajánlotta egy felső sávban hogy módosítom -e és ott meg tudtam adni a cmd-t
+egyébként ha beütöd a powershell-be cmd akkor átmegy abba
